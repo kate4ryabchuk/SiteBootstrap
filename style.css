@@ -1,0 +1,8 @@
+.carousel {
+    height: 70vh;
+    background-image: url(./img/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* filter: brightness(0.5); */
+}
+
