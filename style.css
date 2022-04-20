@@ -14,3 +14,17 @@
 footer {
     height: 18vh;
 }
+
+
+.media {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.media img {
+    width: 30%;
+    height: fit-content;
+    margin-right: 10px;
+}
